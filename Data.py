@@ -23,7 +23,6 @@ class Data:
  ├ /speedtest - To Test the bot server speed
  └ /broadcast - To send broadcast messages to bot users
 
-👨‍💻 Developed by </b><a href='https://t.me/Lunatic0de/101'>@Lunatic0de</a>\n
 😶‍🌫️ Translated by </b><a href='https://t.me/Ktgp_3453'>@Ktgp_3453</a>
 """
 
@@ -54,6 +53,5 @@ class Data:
  • Framework: <a href='https://docs.pyrogram.org'>Pyrogram</a>
  • Source Code: <a href='https://github.com/mrismanaziz/File-Sharing-Man'>File-Sharing-Man v4</a>
 
-👨‍💻 Developed by </b><a href='https://t.me/Lunatic0de/101'>@Lunatic0de</a>\n
 😶‍🌫️ Translated by </b><a href='https://t.me/Ktgp_3453'>@Ktgp_3453</a>
 """
