@@ -23,7 +23,7 @@ class Data:
  ├ /speedtest - To Test the bot server speed
  └ /broadcast - To send broadcast messages to bot users
 
-😶‍🌫️ Translated by </b><a href='https://t.me/Ktgp_3453'>@Ktgp_3453</a>
+😶‍🌫️ OWNER </b><a href='https://t.me/Ktgp_3453'>@Ktgp_3453</a>
 """
 
     close = [
@@ -51,7 +51,6 @@ class Data:
 
  • Creator: @{}
  • Framework: <a href='https://docs.pyrogram.org'>Pyrogram</a>
- • Source Code: <a href='https://github.com/mrismanaziz/File-Sharing-Man'>File-Sharing-Man v4</a>
 
-😶‍🌫️ Translated by </b><a href='https://t.me/Ktgp_3453'>@Ktgp_3453</a>
+😶‍🌫️ OWNER </b><a href='https://t.me/Ktgp_3453'>@Ktgp_3453</a>
 """
